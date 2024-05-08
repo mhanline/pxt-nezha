@@ -16,7 +16,7 @@ input.onButtonPressed(Button.A, function () {
     neZha.setMotorSpeed(neZha.MotorList.M4, 100)
 })
 input.onButtonPressed(Button.B, function () {
-    neZha.setServoAngel(neZha.ServoList.S1, 119)
+    neZha.setServoAngle(neZha.ServoList.S1, 119)
     neZha.setServoSpeed(neZha.ServoList.S2, -58)
 })
 input.onButtonPressed(Button.AB, function () {

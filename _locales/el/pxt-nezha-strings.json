@@ -11,7 +11,7 @@
   "neZha.ServoTypeList._270|block": "270°",
   "neZha.ServoTypeList._360|block": "360°",
   "neZha.setMotorSpeed|block": "Θέσε Κινητήρα %motor σε ταχύτητα %speed\\%",
-  "neZha.setServoAngel|block": "Θέσε Σερβοκινητήρα %servoType  %servo σε %angle°",
+  "neZha.setServoAngle|block": "Θέσε Σερβοκινητήρα %servoType  %servo σε %angle°",
   "neZha.setServoSpeed|block": "Θέσε Βηματικό κινητήρα %servo με ταχύτητα %speed\\%",
   "neZha.stopAllMotor|block": "Σταμάτησε όλους τους κινητήρες",
   "neZha.stopMotor|block": "Σταμάτησε κινητήρα %motor",
